@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE PLANET",
+  "universe": "PLN · THE PLANET (techne · the art)",
+  "emergence": "",
+  "moniker": "⟦THE PLANET:PLN:a12f97⟧",
+  "carbon": "the-planet.carbon.tiff (TIFF)",
+  "silicon": "the-planet.silicon.png (PNG)",
+  "seal_sha256": "c96c48a9a39089e29d872ca5890e1674ac21d423d54ccda5afafa311bfe091b1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

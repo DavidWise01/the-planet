@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The World",
+  "universe": "PLN · The World (techne)",
+  "emergence": "natural",
+  "moniker": "⟦The World:PLN:20486a⟧",
+  "carbon": "the-world.carbon.tiff (TIFF)",
+  "silicon": "the-world.silicon.png (PNG)",
+  "seal_sha256": "7ede934342e5571368d01fb4671afe96a585b82a55ed4e0dfa819f36d0a642d9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

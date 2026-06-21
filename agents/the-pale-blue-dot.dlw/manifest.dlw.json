@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Pale Blue Dot",
+  "universe": "PLN · The Pale Blue Dot (techne)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Pale Blue Dot:PLN:d06d73⟧",
+  "carbon": "the-pale-blue-dot.carbon.tiff (TIFF)",
+  "silicon": "the-pale-blue-dot.silicon.png (PNG)",
+  "seal_sha256": "7b129c1b49f8ca1edfbf0fce70b529ce3b9a2a74cfa70ff50de4b68e62c10b41",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

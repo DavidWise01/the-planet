@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-world",
+    "name": "The World",
+    "epithet": "rock, water, air · natural",
+    "emergence": "natural",
+    "moniker": "⟦The World:PLN:20486a⟧"
+  },
+  {
+    "slug": "the-atmosphere",
+    "name": "The Atmosphere",
+    "epithet": "the thin sky · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Atmosphere:PLN:3ca99a⟧"
+  },
+  {
+    "slug": "the-terminator",
+    "name": "The Terminator",
+    "epithet": "the line of night · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Terminator:PLN:431c37⟧"
+  },
+  {
+    "slug": "the-biosphere",
+    "name": "The Biosphere",
+    "epithet": "the living film · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Biosphere:PLN:57169e⟧"
+  },
+  {
+    "slug": "the-orbit",
+    "name": "The Orbit",
+    "epithet": "bound to a star · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Orbit:PLN:9c7dae⟧"
+  },
+  {
+    "slug": "the-pale-blue-dot",
+    "name": "The Pale Blue Dot",
+    "epithet": "seen from far · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Pale Blue Dot:PLN:d06d73⟧"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Orbit",
+  "universe": "PLN · The Orbit (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦The Orbit:PLN:9c7dae⟧",
+  "carbon": "the-orbit.carbon.tiff (TIFF)",
+  "silicon": "the-orbit.silicon.png (PNG)",
+  "seal_sha256": "5777ad55ed1c044c094ccc16aa8742f12161045b1819e65c81763bce3218bea2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

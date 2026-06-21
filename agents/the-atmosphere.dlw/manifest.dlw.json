@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Atmosphere",
+  "universe": "PLN · The Atmosphere (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Atmosphere:PLN:3ca99a⟧",
+  "carbon": "the-atmosphere.carbon.tiff (TIFF)",
+  "silicon": "the-atmosphere.silicon.png (PNG)",
+  "seal_sha256": "ccebf55ffd9bc0bf181a9290ec8c2459466386f25aa8724895d54973e9fcd65e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

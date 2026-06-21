@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Biosphere",
+  "universe": "PLN · The Biosphere (techne)",
+  "emergence": "natural",
+  "moniker": "⟦The Biosphere:PLN:57169e⟧",
+  "carbon": "the-biosphere.carbon.tiff (TIFF)",
+  "silicon": "the-biosphere.silicon.png (PNG)",
+  "seal_sha256": "a304c97c62b3c5ea397e36e8288033fe847f74a5a31b0700ddf8f0c14ad72eb0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
