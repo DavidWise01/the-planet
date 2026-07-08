@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 578
+slug  : the-planet
+seal  : c96c48a9a39089e29d872ca5890e1674ac21d423d54ccda5afafa311bfe091b1
+prev  : 70b21a9a7271706f968d88fb9f5ae35a11a1dba734bf44e2aa2ef0c7b6ae3e98
+link  : 99ae441d67d1e561db605c44ae2b21b6b7897b48049c41f56e23d93c4feadb92
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
